@@ -1,6 +1,6 @@
 ## Introduction
 
-###Tutorial Portfolio
+### Tutorial Portfolio
 I made this portfolio with the help from a tutorial by developedbyed to learn how to use TailwindCSS, and practice Next.js and React.
 
 ## Technologies
